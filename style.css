@@ -1318,13 +1318,17 @@ body {
     top: 0;
     transform: rotate(360deg);
     z-index: 3;
+    position: absolute;
+
 }
 
 .ocean-floor {
     bottom: 0;
-    margin-top: 350px;
+    margin-top: 36vh;
     transform: rotate(180deg);
     z-index: 3;
+    position: absolute;
+
 
 }
 
